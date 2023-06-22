@@ -9,3 +9,35 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#one{
+  
+  border-top-color: #f00;
+  background-color: #f00;
+}
+#two{
+  border-top-color: #ffa500;
+  background-color: #ffa500;
+}
+#three{
+  border-top-color: #ff0;
+  background-color: #ff0;
+}
+#four{
+  border-top-color: #00bc3f;
+  background-color: #00bc3f;
+}
+#five{
+  border-top-color: #06f;
+  background-color:  #06f;
+}
+#six{
+  border-top-color: #8a2be2;
+  background-color:#8a2be2 ;
+}
+#seven{
+  border-top-color: #d300c9;
+  background-color:#d300c9 ;
+}
+
+
+
